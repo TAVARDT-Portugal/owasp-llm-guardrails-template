@@ -7,7 +7,7 @@
 
 Blueprint declarativo e middleware de código aberto para mitigação de Prompt Injection (OWASP LLM01), fuga de system prompt e manipulação adversarial de agentes de IA, em conformidade com o RGPD e o Regulamento Europeu de IA (AI Act).
 
-Desenvolvido e mantido pela equipa de engenharia da **TAVARDT**.
+Desenvolvido e mantido pela equipa de engenharia da **TAVARDT Portugal**.
 
 ***
 
@@ -89,4 +89,14 @@ Copyright
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
